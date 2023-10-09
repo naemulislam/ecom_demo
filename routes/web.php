@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\Backend\BackendController;
+use App\Http\Controllers\Frontend\DashboardController;
 use App\Http\Controllers\Frontend\FrontendController;
 use Illuminate\Support\Facades\Route;
 
@@ -23,4 +24,9 @@ Route::controller(LoginController::class)->group(function(){
 Route::controller(FrontendController::class)->group(function(){
     Route::get('/','index')->name('home');
 });
-Route::controller(BackendController::class)->group(function(){});
+Route::controller(DashboardController::class)->middleware('user')->group(function(){
+    Route::get('/user/dashboard','dashboard')->name('user.dashboard');
+});
+Route::controller(BackendController::class)->middleware('admin')->group(function(){
+    Route::get('/admin/dashboard','dashboard')->name('admin.dashboard');
+});
