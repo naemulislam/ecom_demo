@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Electronic",
+        "src": "defaultCategories/Electronic.jpg"
+    },
+    {
+        "name": "Accessories",
+        "src": "defaultCategories/Accessories.jpg"
+    },
+    {
+        "name": "Automobile",
+        "src": "defaultCategories/Automobile.jpg"
+    },
+    {
+        "name": "Computer",
+        "src": "defaultCategories/Computer.jpg"
+    },
+    {
+        "name": "Dasktop",
+        "src": "defaultCategories/Dasktop.jpg"
+    },
+    {
+        "name": "Food",
+        "src": "defaultCategories/Food.jpg"
+    },
+    {
+        "name": "Fruits",
+        "src": "defaultCategories/Fruits.jpg"
+    },
+    {
+        "name": "Paracetamol",
+        "src": "defaultCategories/Paracetamol.jpg"
+    },
+    {
+        "name": "Productos Caballero",
+        "src": "defaultCategories/Productos Caballero.jpg"
+    },
+    {
+        "name": "Toy",
+        "src": "defaultCategories/Toy.jpg"
+    }
+]

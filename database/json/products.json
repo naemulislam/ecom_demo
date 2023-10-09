@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Camera Photography",
+        "category": "Electronic",
+        "src": "defaultProducts/Camera.jpg"
+    },
+    {
+        "name": "IP Camera",
+        "category": "Electronic",
+        "src": "defaultProducts/Camera2.jpg"
+    },
+    {
+        "name": "DSLR Camera",
+        "category": "Electronic",
+        "src": "defaultProducts/Camera3.jpg"
+    },
+    {
+        "name": "Digital Controller",
+        "category": "Electronic",
+        "src": "defaultProducts/Controller.jpg"
+    },
+    {
+        "name": "Berrak Pasta",
+        "category": "Electronic",
+        "src": "defaultProducts/pasta.jpg"
+    },
+    {
+        "name": "Barger",
+        "category": "Electronic",
+        "src": "defaultProducts/barger.jpg"
+    },
+    {
+        "name": "Salad",
+        "category": "Electronic",
+        "src": "defaultProducts/salad.jpg"
+    },
+    {
+        "name": "vegetable role",
+        "category": "Electronic",
+        "src": "defaultProducts/vge_role.jpg"
+    },
+    {
+        "name": "Stylish Fashionable",
+        "category": "Electronic",
+        "src": "defaultProducts/style_fashion.jpg"
+    },
+    {
+        "name": "T Shirt Men Fitness",
+        "category": "Electronic",
+        "src": "defaultProducts/shirt5.jpg"
+    },
+    {
+        "name": "T Shirt For Man",
+        "category": "Electronic",
+        "src": "defaultProducts/shirt3.jpg"
+    },
+    {
+        "name": "T shirt -Febric",
+        "category": "Electronic",
+        "src": "defaultProducts/shirt8.jpg"
+    },
+    {
+        "name": "T-shirt Fabric soft and comfortable",
+        "category": "Electronic",
+        "src": "defaultProducts/shirt10.jpg"
+    },
+    {
+        "name": "New Stylish Denim Jeans Pant For Men -Jeans Pant",
+        "category": "Electronic",
+        "src": "defaultProducts/pant8.jpg"
+    },
+    {
+        "name": "Smart & Stylish Denim Jeans Pant For Men",
+        "category": "Electronic",
+        "src": "defaultProducts/pant11.jpg"
+    },
+    {
+        "name": "Infinix Hot 30i",
+        "category": "Electronic",
+        "src": "defaultProducts/Phone.jpg"
+    },
+    {
+        "name": "Redmi 12C(6/128GB)",
+        "category": "Electronic",
+        "src": "defaultProducts/Phone2.jpg"
+    },
+    {
+        "name": "Fashion Women's Watch for Men's Sports Simple Silicone",
+        "category": "Electronic",
+        "src": "defaultProducts/watch.jpg"
+    }
+]
